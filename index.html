@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SK Mayo | Portfolio</title>
+  <link rel="stylesheet" href="css/master.css" />
+  <script defer src="js/main.js"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="icon" href="favicon.ico" />
+  <meta name="description" content="SK Mayo's portfolio - IT Graduate & Web Developer. View projects, experience, and contact information.">
+  <style>
+    html { scroll-behavior: smooth; }
+  </style>
+</head>
+<body>
+  <!-- Header / Navigation -->
+  <header>
+    <nav aria-label="Main Navigation">
+      <div class="logo">SK Mayo</div>
+      <ul class="nav-links">
+        <li><a href="#home">Home</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#experience">Experience</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- Home Section -->
+  <section id="home" class="hero">
+    <h1>Hi, I'm Ghulam Mujtaba</h1>
+    <p>Recent IT Graduate &amp; Web Developer</p>
+    <a href="#contact" class="btn">Let's Connect</a>
+  </section>
+
+  <!-- About Section -->
+  <section id="about">
+    <h2>About Me</h2>
+    <p>
+      I am a recent graduate in Information Technology with hands-on experience in web development. I enjoy building interactive and responsive websites using HTML, CSS, and JavaScript. I am passionate about learning new technologies and solving real-world problems through code.
+    </p>
+  </section>
+
+  <!-- Projects Section -->
+  <section id="projects">
+    <h2>Projects</h2>
+    <div class="project-list">
+      <div class="project-card">
+        <h3>Portfolio Website</h3>
+        <p>A personal portfolio website built with HTML, CSS, and JavaScript to showcase my projects and skills.</p>
+        <a href="#" target="_blank">View Project</a>
+      </div>
+      <div class="project-card">
+        <h3>Task Manager App</h3>
+        <p>A simple task management app using React and Firebase for real-time updates and authentication.</p>
+        <a href="#" target="_blank">View Project</a>
+      </div>
+      <!-- Add more projects as needed -->
+    </div>
+  </section>
+
+  <!-- Experience / Resume Section -->
+  <section id="experience">
+    <h2>Experience &amp; Resume</h2>
+    <ul>
+      <li>
+        <strong>Web Development Intern</strong> – XYZ Company (2024)<br>
+        Developed responsive web pages and collaborated with designers to improve user experience.
+      </li>
+      <li>
+        <strong>Volunteer IT Support</strong> – Local Nonprofit (2023)<br>
+        Provided technical support and maintained the organization's website.
+      </li>
+    </ul>
+    <a href="resume/resume.pdf" download class="btn">Download Resume (PDF)</a>
+  </section>
+
+  <!-- Contact Section -->
+  <section id="contact">
+    <h2>Contact Me</h2>
+    <form id="contact-form" autocomplete="off">
+      <label for="name">Name</label>
+      <input id="name" name="name" type="text" placeholder="Your Name" required />
+
+      <label for="email">Email</label>
+      <input id="email" name="email" type="email" placeholder="Your Email" required />
+
+      <label for="message">Message</label>
+      <textarea id="message" name="message" placeholder="Your Message" required></textarea>
+
+      <button type="submit">Send Message</button>
+    </form>
+    <div class="social-links">
+      <a href="https://github.com/" target="_blank" rel="noopener noreferrer" aria-label="GitHub"><i class="fab fa-github"></i></a>
+      <a href="https://linkedin.com/" target="_blank" aria-label="LinkedIn"><i class="fab fa-linkedin"></i></a>
+    </div>
+  </section>
+
+  <footer>
+    <p>© 2025 SK Mayo. All rights reserved.</p>
+  </footer>
+</body>
+</html>
