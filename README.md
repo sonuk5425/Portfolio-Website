@@ -7,7 +7,7 @@ This is my personal portfolio website created using **HTML**, **CSS**, and **Jav
 ## 🔗 Live Preview
 
 > You can view the live version of the website here:  
-> https://sonuk5425.github.io/portfolio-website
+> https://sonuk5425.github.io/Portfolio-Website
 
 ---
 
