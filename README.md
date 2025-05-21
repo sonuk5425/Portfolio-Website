@@ -7,7 +7,7 @@ This is my personal portfolio website created using **HTML**, **CSS**, and **Jav
 ## 🔗 Live Preview
 
 > You can view the live version of the website here:  
-> [https://yourusername.github.io/portfolio-website](https://sonuk5425.github.io/portfolio-website)
+> https://sonuk5425.github.io/portfolio-website
 
 ---
 
@@ -45,8 +45,8 @@ portfolio-website/
 If you'd like to connect with me or discuss job opportunities:
 
 - **Email:** gmujtaba5425@gmail.com  
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/ghulam-mujtaba-4a1598338/)  
-- **GitHub:** [github.com/yourusername](https://github.com/sonuk5425)
+- **LinkedIn:** https://linkedin.com/in/ghulam-mujtaba-4a1598338/  
+- **GitHub:** https://github.com/sonuk5425
 
 ---
 
